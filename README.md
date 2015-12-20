@@ -2,7 +2,7 @@
 
 技术栈
 
-- [base2(mirco kernel)](https://github.com/base-n/base2-core)
+- [base2(micro kernel)](https://github.com/base-n/base2-core)
 - [mongoose](https://github.com/Automattic/mongoose)
 - [bluebird](https://github.com/petkaantonov/bluebird)
 - [res.api](https://github.com/moajs/res.api)
@@ -59,7 +59,7 @@ http://127.0.0.1:3040/api
 
 ## 扩展
 
-- 集成zeromq（https://github.com/i5ting/mqpush）
+- 集成zeromq（ https://github.com/i5ting/mqpush ）
 
 ## RCSM分层思想
 
